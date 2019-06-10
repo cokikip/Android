@@ -1,4 +1,4 @@
-package com.example.carol.wordlookup;
+package com.example.coki.wordlookup;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

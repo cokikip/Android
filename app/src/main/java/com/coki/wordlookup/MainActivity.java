@@ -1,4 +1,4 @@
-package com.example.carol.wordlookup;
+package com.example.coki.wordlookup;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

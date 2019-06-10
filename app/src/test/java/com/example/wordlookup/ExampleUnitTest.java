@@ -1,4 +1,4 @@
-package com.example.carol.wordlookup;
+package com.example.wordlookup;
 
 import org.junit.Test;
 
